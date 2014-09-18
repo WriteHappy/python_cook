@@ -1,0 +1,1 @@
+http://code.activestate.com/recipes/sets/2-python-cookbook-edition-2/
